@@ -5,6 +5,8 @@ Using [Mapbox](https://www.mapbox.com/) to visualize the distribution of univers
 Data format is `GeoJSON`, you can modify and add other universities on it if you want.
 All the data is stored in the `us.json` file.
 
+[Demo](http://hectorguo.com/Universities-in-US/)
+
 ## Data Categories
 
 1. [Ivy League](https://en.wikipedia.org/wiki/Ivy_League)
