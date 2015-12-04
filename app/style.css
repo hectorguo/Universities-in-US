@@ -1,0 +1,50 @@
+#map {
+    height: 500px;
+    width: 100%;
+    position: absolute;
+    left: 0
+}
+
+.map-container {
+    height: 500px
+}
+
+.options {
+    position: absolute;
+    right: 0;
+    background: #fff;
+    width: 120px;
+    padding: 10px;
+    border: none;
+    white-space: nowrap;
+    /*height: 100%;*/
+}
+
+.options ul {
+    list-style: none;
+    margin: 10px 0;
+    padding: 0;
+}
+
+.options h4 {
+    border-bottom:1px solid #e8e8e8;
+    margin-bottom: 10px;
+    margin-top: 1em;
+}
+
+.options span {
+    font-size: 0.9em;
+}
+.marker {
+    font-size: 1.3em;
+    font-weight: bold;
+    white-space: nowrap;
+}
+
+.ivy {
+    color: #fbb03b;
+}
+
+.label {
+    text-align: center;
+}
